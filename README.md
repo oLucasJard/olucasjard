@@ -113,8 +113,8 @@ I build interfaces that blend aesthetics and functionality, focused on **digital
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-lucasjardimrocha.com.br-302b63?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lucasjardimrocha.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Jardim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olucasjard)
-[![Email](https://img.shields.io/badge/Email-contato%40lucasjardimrocha.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@lucasjardimrocha.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Jardim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasjardimrocha)
+[![Email](https://img.shields.io/badge/Email-lucasjardim2015%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasjardim2015@gmail.com)
 
 </div>
 
