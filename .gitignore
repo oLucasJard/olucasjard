@@ -1,0 +1,7 @@
+# curriculo/ é outro repositório git (nested), nunca deve ser rastreado aqui
+curriculo/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

@@ -6,31 +6,31 @@
 
 ---
 
-<div align="center">
-
-### 🇧🇷 Português &nbsp;|&nbsp; 🇺🇸 English
-
-</div>
-
----
-
 ## 🇧🇷 Sobre mim
 
-Sou **Lucas Jardim**, Designer + Desenvolvedor Fullstack de Paraíso do Tocantins — TO.
+Sou **Lucas Jardim Rocha**, Software Engineer, Criador Visual e Estrategista de Paraíso do Tocantins — TO.
 
-Construo interfaces que unem estética e funcionalidade, com foco em **produtos digitais que resolvem problemas reais**. Fundei a **BrandUp Hub**, criei o app de mobilidade **LevaUp** e a plataforma de gestão **Voluns** — tudo enquanto cursava Engenharia de Software.
+Nasci no campo, cresci entre o gado Nelore e entendi cedo que o risco é o combustível do crescimento. Enquanto a maioria busca o caminho de menor resistência, eu me posiciono **na contramão**. Sou cristão, e isso molda meu caráter: sou servo por convicção e líder por chamado.
 
-> *"Na contramão do mundo — design com propósito, código com intenção."*
+Aos 14 anos comprei minha primeira câmera. Foram 4 anos como freelancer, aprendendo que o design só presta se converter em venda. Hoje, na Engenharia de Software, aplico a mesma lógica: tecnologia não é fim, é meio para gerar lucro, ordem e impacto.
+
+> *"Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens." (Colossenses 3:23)*
 
 ---
 
-## 🇺🇸 About me
+## 💼 Experiência & Métrica
 
-I'm **Lucas Jardim**, a Designer + Fullstack Developer from Tocantins, Brazil.
+### 📣 Marketing & Copywriting (Case CONQUISTE)
+Estratégia de tráfego e conteúdo focado em conversão.
+**Resultado:** custo médio de R$ 350,00 por venda no setor imobiliário — resultados que pagam o investimento.
 
-I build interfaces that blend aesthetics and functionality, focused on **digital products that solve real problems**. I founded **BrandUp Hub**, created the mobility app **LevaUp** and the management platform **Voluns** — all while studying Software Engineering.
+### 🎨 Produção Visual & UI/UX
+Fotografia de eventos, edição em Premiere/After Effects e design de interfaces.
+**Diferencial:** 4 anos de experiência prática. Eu sei o que o olho do cliente busca antes mesmo dele saber.
 
-> *"Against the grain — design with purpose, code with intention."*
+### 👥 Liderança & Gestão (Nexus)
+Líder de Multimídia.
+**Valor:** liderar voluntários é o teste de fogo da gestão. Se consigo manter um time ativo e apaixonado servindo sem salário, imagine o que faço com uma equipe focada em metas.
 
 ---
 
@@ -54,34 +54,24 @@ I build interfaces that blend aesthetics and functionality, focused on **digital
 
 ---
 
-## 🚀 Projetos em Destaque / Featured Projects
+## 🚀 Ecossistema BrandUp Hub
+
+> Meu laboratório de soluções para o Tocantins. Não espero as soluções de fora; eu as construo aqui.
 
 ### 📱 LevaUp
-> App de mobilidade urbana para cidades do interior do Brasil  
-> *Urban mobility app for smaller Brazilian cities*
-
+Mobilidade urbana com soberania regional. O app de transporte de Paraíso do Tocantins, feito por quem entende as dores locais do passageiro e do motorista.
 - **Stack:** Flutter · Dart · Node.js
-- **Problema:** Falta de alternativas de transporte por aplicativo em cidades do interior
-- **Status:** Em desenvolvimento / *In development*
-
----
+- **Site:** [levaup.com.br](https://www.levaup.com.br)
 
 ### ⛪ Voluns
-> Plataforma de gestão de voluntários para ministérios e igrejas  
-> *Volunteer management platform for ministries and churches*
-
+Tecnologia para o Reino. A plataforma definitiva para gestão de escalas e ministérios, focada em quem serve na casa de Deus.
 - **Stack:** React · Node.js
-- **Problema:** Gestão manual e desorganizada de equipes de voluntariado
-- **Status:** Em desenvolvimento / *In development*
-
----
+- **Site:** [voluns.com.br](https://www.voluns.com.br)
 
 ### 🏢 BrandUp Hub
-> Agência digital focada em marcas regionais com posicionamento estratégico  
-> *Digital agency focused on regional brands with strategic positioning*
-
+Agência digital focada em marcas regionais com posicionamento estratégico.
 - **Serviços:** Identidade visual · Marketing digital · Desenvolvimento web
-- **Case:** Campanha imobiliária com custo médio de R$350/venda
+- **Site:** [branduphub.com.br](https://www.branduphub.com.br)
 
 ---
 
@@ -102,18 +92,19 @@ I build interfaces that blend aesthetics and functionality, focused on **digital
 
 ---
 
-## 🎓 Formação / Education
+## 🎓 Formação
 
-**Engenharia de Software** — Ceulp-Ulbra, Palmas · TO *(em andamento / in progress)*
+**Engenharia de Software** — Ceulp-Ulbra, Palmas · TO *(em andamento)*
 
 ---
 
-## 📬 Contato / Contact
+## 📬 Contato
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-lucasjardimrocha.com.br-302b63?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lucasjardimrocha.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Jardim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasjardimrocha)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(63)_9_8491--7494-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5563984917494)
 [![Email](https://img.shields.io/badge/Email-lucasjardim2015%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasjardim2015@gmail.com)
 
 </div>
@@ -124,6 +115,6 @@ I build interfaces that blend aesthetics and functionality, focused on **digital
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-*Disponível para oportunidades remotas · Available for remote opportunities*
+*Credibilidade se constrói com trabalho duro. Disponível para oportunidades remotas.*
 
 </div>
