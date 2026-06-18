@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=200&section=header&text=Lucas%20Jardim&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%2B%20Criador%20Visual&descAlignY=58&descSize=18&descColor=FF4500" width="100%"/>
 
 <a href="https://github.com/olucasjard">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2500&pause=1200&color=D4AF37&background=00000000&center=true&vCenter=true&width=600&lines=NA+CONTRAMÃO+DO+MUNDO+%E2%9A%A1;Gelo+no+sangue%2C+sangue+no+olho.;Tecnologia+%C3%A9+meio%2C+n%C3%A3o+fim." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2500&pause=1200&color=D4AF37&background=00000000&center=true&vCenter=true&width=600&lines=NA+CONTRAM%C3%83O+DO+MUNDO+%E2%9A%A1;Gelo+no+sangue%2C+sangue+no+olho.;Tecnologia+%C3%A9+meio%2C+n%C3%A3o+fim." alt="Typing SVG" />
 </a>
 
 </div>
@@ -103,12 +103,6 @@ Agência digital focada em marcas regionais com posicionamento estratégico.
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=olucasjard&hide_border=true&locale=pt_BR&background=000000&border=262626&ring=D4AF37&fire=FF4500&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=A3A3A3&stroke=D4AF37)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=olucasjard&theme=gitdimmed&no-bg=true&no-frame=true&row=1&margin-w=8&column=7)
 
 </div>
 
